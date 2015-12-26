@@ -1,5 +1,5 @@
 /**
- *1.1版本
+ *Version 1.1
  *两块钱一瓶汽水,
  *两个空瓶子换一瓶汽水，
  *五个瓶盖换一瓶汽水，
@@ -126,7 +126,7 @@ class Drink
 
 }
 
-public class Drinking_1_1
+public class DrinkingSoda
 {
 	public static void main(String[] args)
 	{
